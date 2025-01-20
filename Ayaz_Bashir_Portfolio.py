@@ -6,7 +6,7 @@ st.title('Welcome to My Portfolio')
 col1, col2 = st.columns([1, 3])  
 
 with col1:
-    image_url = "https://raw.githubusercontent.com/ayaz135/Ayaz-Bashir/main/Image.jpeg"
+    image_url = "https://raw.githubusercontent.com/ayaz0065/Ayaz-Bashir/main/Image.jpeg"
     st.image(image_url, width=150)
 
 with col2:
