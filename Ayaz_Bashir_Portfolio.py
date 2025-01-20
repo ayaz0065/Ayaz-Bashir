@@ -7,7 +7,7 @@ col1, col2 = st.columns([1, 3])
 
 with col1:
     image_url = "https://raw.githubusercontent.com/ayaz0065/Ayaz-Bashir/main/Image.jpeg"
-    st.image(image_url, width=180, length=100)
+    st.image(image_url, width=180)
 
 with col2:
     st.write("""
